@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">AntiTheftProject</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Login Activity -->
+    <string name="title_activity_login">Log In</string>
+    <string name="username">Username</string>
+    <string name="userpwd">Password</string>
+    <string name="loginBtn">Login</string>
+    <string name="registerBtn">Register</string>
+    <string name="createacclink"><u>No Account Yet? Create one now!</u></string>
+
+    <!-- Register Activity -->
+    <string name="title_activity_register">Register</string>
+    <string name="userEmail">Email</string>
+    <string name="userPhoneNumber">Phone No</string>
+    <string name="appName">TheftSpy</string>
+</resources>

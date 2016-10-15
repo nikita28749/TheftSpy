@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/content_service"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="56dp"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        tools:showIn="@layout/activity_service"
+        tools:context="antitheftproject.android.cmpe277.antitheftproject.ServiceActivity">
+
+        <Button
+            android:layout_width="115dp"
+            android:layout_height="115dp"
+            android:id="@+id/startservicebtn"
+            android:text="Update          Sim"
+            android:onClick="updatesim"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:layout_marginTop="100dp"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/circle_btn"/>
+
+        <Button
+            android:layout_width="115dp"
+            android:layout_height="115dp"
+            android:id="@+id/stopservicebtn"
+            android:text="Stop          Service"
+            android:textColor="#ffffff"
+            android:onClick="toggleBroadCast"
+            android:layout_gravity="center"
+            android:layout_marginBottom="100dp"
+            android:background="@drawable/stop_btn"/>
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>
