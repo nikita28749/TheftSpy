@@ -1,4 +1,4 @@
-# TheftSpy Project
+# TheftSpy
 “TheftSpy” has been developed for Android based devices for tracking a lost or stolen mobile phone. As the use of android 
 based smartphones and tablets is increasing, many scenarios related to anti-theft have already been proposed and many softwares have also been developed. However, most of these applications are not freely available and not accurate enough in providing the exact location of the device for example, GPS tracking hence, making it difficult to catch hold of the thief. This app proposes a 
 new techniquqe which enhances the present scenario by using technologies like email and SMS. Once this application is installed
