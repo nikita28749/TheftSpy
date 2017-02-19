@@ -4,11 +4,11 @@ new technique by using email and SMS services. Once this application is installe
 and stores the current SIM number and keeps checking for SIM removal or change, network change, and low battery. Whenever the app detects either of these activities, it notifies the owner of the device's location details by SMS and email which was provided by the user during registration. It also supports password on shutdown feature which is activated when the device's power button is long pressed. The app will email and SMS the location of the device on entering the wrong password. The main advantage of this application is that it is easy to install and does not require any configurations and keeps running in the background without interrupting the user.
 
 ## Technologies Used
-*Android Studio*
-*Google Maps*
-*REST API's*
-*Amazon AWS* 
-*SendGrid API*
+ *Android Studio
+ *Google Maps
+ *REST API's
+ *Amazon AWS 
+ *SendGrid API
 
 ## Screenshots
 
