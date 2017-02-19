@@ -11,10 +11,10 @@ and stores the current SIM number and keeps checking for SIM removal or change, 
  * SendGrid API
 
 ## Features
-* Detect SIM card change/removal
-* Detect network change
-* Location updates by email and SMS on low battery
-* Prompt for password on attempt to shutdown device
+ * Detect SIM card change/removal
+ * Detect network change
+ * Location updates by email and SMS on low battery
+ * Prompt for password on attempt to shutdown device
 
 
 ## Screenshots
