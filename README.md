@@ -10,6 +10,13 @@ and stores the current SIM number and keeps checking for SIM removal or change, 
  * Amazon AWS 
  * SendGrid API
 
+## Features
+* Detect SIM card change/removal
+* Detect network change
+* Location updates by email and SMS on low battery
+* Prompt for password on attempt to shutdown device
+
+
 ## Screenshots
 
 <img src="https://cloud.githubusercontent.com/assets/14244401/23098425/757a454e-f666-11e6-804a-922262bca3c0.png" width="300" height="400">          <img src="https://cloud.githubusercontent.com/assets/14244401/23098445/e46aa002-f666-11e6-92e2-98041edd8d00.png" width="300" height="400">
